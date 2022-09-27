@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Take a look at my personal site - https://tatianaperry.com/
-Writing samples - https://github.com/tjperry07/work_projects
+- Take a look at my personal site - https://tatianaperry.com/
+- Writing samples - https://github.com/tjperry07/work_projects
 
 <!--
 **tjperry07/tjperry07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
